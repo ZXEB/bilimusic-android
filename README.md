@@ -20,27 +20,23 @@
 
 ## 截图
 
-![](https://dl.xp6.top/view.php/7e7b1c539582ab3c8484b7d230dd0768.jpg)
+<img src="https://dl.xp6.top/view.php/7e7b1c539582ab3c8484b7d230dd0768.jpg" style="zoom: 25%;" /><img src="https://dl.xp6.top/view.php/5aa4673904ad08719d91b0523ee89891.jpg" style="zoom: 25%;" />
 
-![](https://dl.xp6.top/view.php/5aa4673904ad08719d91b0523ee89891.jpg)
-
-！[](https://dl.xp6.top/view.php/b8e11a316b0c092cf10b7adb4ea8bacf.jpg)
-
-![](https://dl.xp6.top/view.php/bc70b9fc2773249e4fbe9f37dab4eaa3.jpg)
+<img src="https://dl.xp6.top/view.php/b8e11a316b0c092cf10b7adb4ea8bacf.jpg" style="zoom:25%;" /><img src="https://dl.xp6.top/view.php/bc70b9fc2773249e4fbe9f37dab4eaa3.jpg" style="zoom:25%;" />
 
 ## 构建环境
 
-| 项目 | 版本 |
-|------|------|
-| Android Studio | Koala / Ladybug 均可 |
-| Gradle | 8.5 (Wrapper 内置) |
-| Java | 17 |
-| Android SDK | 34 (compileSdk) |
-| Min SDK | 26 (Android 8.0) |
-| Target SDK | 34 |
-| Kotlin | 1.9.22 |
-| Compose BOM | 2024.02.00 |
-| Compose Compiler | 1.5.10 |
+| 项目             | 版本                 |
+| ---------------- | -------------------- |
+| Android Studio   | Koala / Ladybug 均可 |
+| Gradle           | 8.5 (Wrapper 内置)   |
+| Java             | 17                   |
+| Android SDK      | 34 (compileSdk)      |
+| Min SDK          | 26 (Android 8.0)     |
+| Target SDK       | 34                   |
+| Kotlin           | 1.9.22               |
+| Compose BOM      | 2024.02.00           |
+| Compose Compiler | 1.5.10               |
 
 ## 构建方法
 
