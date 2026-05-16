@@ -9,15 +9,24 @@
 - 搜索 Bilibili 视频并播放音频
 - 播放队列管理（添加/移除）
 - 后台播放 + 通知栏控制
-- 迷你播放器（所有页面可见）
+- 迷你播放器
 - 封面取色动态背景
 - 倍速/音调/均衡器/响度增强
 - 睡眠定时
-- 歌词显示（Bilibili 字幕）
+
+## 登录方式
+
+-在 https://www.bilibili.com/ 登录账号后F12获取哔bilibili SESSDATA 填写到软件内即可
 
 ## 截图
 
-（待补充）
+![](https://dl.xp6.top/view.php/7e7b1c539582ab3c8484b7d230dd0768.jpg)
+
+![](https://dl.xp6.top/view.php/5aa4673904ad08719d91b0523ee89891.jpg)
+
+！[](https://dl.xp6.top/view.php/b8e11a316b0c092cf10b7adb4ea8bacf.jpg)
+
+![](https://dl.xp6.top/view.php/bc70b9fc2773249e4fbe9f37dab4eaa3.jpg)
 
 ## 构建环境
 
